@@ -24,8 +24,8 @@
 - Helping the society however posiible
   
 ## Tech Stack :computer:
-<table >
-  <img align="right" width="200" height="140" style="margin-top: 20;"  src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<table align="center" >
+
 <tbody width="300" height="300">
  <tr>
 
