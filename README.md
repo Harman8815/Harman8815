@@ -1,6 +1,7 @@
 
 
 <h2 align="center"> Hey there! I'm Harman.</h2>
+![1](https://github.com/Harman8815/Harman8815/assets/115714095/4e9fedd1-2811-4ab1-b273-f752e0732e81)
 
   
 <!---![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
