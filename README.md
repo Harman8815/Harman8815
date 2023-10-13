@@ -2,8 +2,20 @@
 
 <h2 align="center" font-style="italic"> Hey there! I'm Harman.</h2>
 
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+  
+<!---![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
+  <rect width="100%" height="100%" fill="black" />
+  <text x="10" y="20" font-family="Courier" font-size="20" fill="green">
+    01 10 11 00 01 10 11 00 01 10 11 00 01 10 11 00
+  </text>
+  <text x="10" y="40" font-family="Courier" font-size="20" fill="green">
+    01 10 11 00 01 10 11 00 01 10 11 00 01 10 11 00
+  </text>
+ 
+</svg>
+-->
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
