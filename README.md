@@ -1,9 +1,10 @@
 
 
 <h2 align="center"> Hey there! I'm Harman.</h2>
-<span align="center" width="500" height="100" >
+<span align="center" >
     
-  ![1](https://github.com/Harman8815/Harman8815/assets/115714095/3106df8b-dfde-41e4-89ab-8e633103e68f)
+  ![ezgif com-resize](https://github.com/Harman8815/Harman8815/assets/115714095/1f492b64-4f51-420e-b4dd-562ab42ab313)
+
   
 </span>
 
