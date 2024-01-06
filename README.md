@@ -13,24 +13,26 @@
 
 
 -->
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and crafting software solutions with quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at RGPV.
-- 💼 &nbsp; Open to work.
-- 🌱 &nbsp; Learning more about Machine learning, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Software engineering.
-  
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Bachelors Degree  
-- Taking online courses about Software development using Java.
-- Currently also working on Learning Machine Learning and Artificial Intelligence.
+- 💼 &nbsp; Actively seeking new opportunities.
+- 🌱 &nbsp; Learning more about Machine Learning, Systems Design, and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing a degree in Software Engineering.
 
+#### 🌱 Things I am currently working on: 
+
+- Finishing my Computer Engineering Bachelor's Degree.
+- Taking online courses to enhance my skills in Software Development using Java.
+- Exploring the realms of Machine Learning and Artificial Intelligence.
 
 #### :muscle: Things I am challenging myself with:
-- Coding at least 4 hours a day
-- Exercising 6 days a week
-- Helping the society however posiible
+
+- Coding for at least 4 hours a day.
+- Committing to 6 days a week of exercise.
+- Contributing to society in any positive way possible.
+
   
 ## Tech Stack :computer:
 <table align="center" >
