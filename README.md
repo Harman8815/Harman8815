@@ -154,10 +154,9 @@
 
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
-<img width="48" height="48" src="https://icons8.com/icon/QSjnrUKYMnxO/sql" alt="SQL"/>
+<img width="48" height="48" src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" alt="SQL"/>
 </td>
  
-
 </tr>
 
 </tbody>
