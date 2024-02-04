@@ -154,7 +154,8 @@
 
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
-<img width="48" height="48" src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" alt="SQL"/>
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
 </td>
  
 </tr>
