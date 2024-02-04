@@ -151,6 +151,11 @@
 <span><b><center>Stack Overflow</center></b></span> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow"/>
 </td>
+
+<td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img width="48" height="48" src="https://icons8.com/icon/QSjnrUKYMnxO/sql" alt="SQL"/>
+</td>
  
 
 </tr>
