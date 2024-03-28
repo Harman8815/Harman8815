@@ -18,7 +18,7 @@
 - 🤔 &nbsp; Exploring new technologies and crafting software solutions with quick hacks.
 - 🎓 &nbsp; Studying Computer Science at RGPV.
 - 💼 &nbsp; Actively seeking new opportunities.
-- 🌱 &nbsp; Learning more about Machine Learning, Systems Design, and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Blockchain and web development.
 - ✍️ &nbsp; Pursuing a degree in Software Engineering.
 
 #### 🌱 Things I am currently working on: 
