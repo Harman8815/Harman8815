@@ -24,13 +24,13 @@
 #### 🌱 Things I am currently working on: 
 
 - Finishing my Computer Engineering Bachelor's Degree.
-- Taking online courses to enhance my skills in Software Development using Java.
-- Exploring the realms of Machine Learning and Artificial Intelligence.
+- Taking online courses to enhance my skills in Software Development using MERN.
+- Using my skills to develop websites and softwares.
 
 #### :muscle: Things I am challenging myself with:
 
-- Coding for at least 4 hours a day.
-- Committing to 6 days a week of exercise.
+- Coding for at least 6 hours a day.
+- Committing to 4 days a week of exercise.
 - Contributing to society in any positive way possible.
 
   
