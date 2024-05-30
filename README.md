@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=Hey+there!+I'm+Harman.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&random=false&width=480&lines=Hey+there!+I'm+Harman.)](https://git.io/typing-svg)
 
 ![1709131445623](https://github.com/Harman8815/Harman8815/assets/115714095/5ca0deee-18ed-4f7e-9edc-85a21f1a6ad7)
 
@@ -25,26 +25,43 @@ https://www.geeksforgeeks.org/user/harman88157/">
 </a>
 </p>
 
-### 👨🏻‍💻 &nbsp;About Me
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=480&lines=+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+About+Me)](https://git.io/typing-svg)
 
-- 🤔 &nbsp; Passionate Coder
-- 🎓 &nbsp; Studying B.Tech [C.S] at RGPV
-- 💼 &nbsp; Actively Seeking New Opportunities
-- 🌱 &nbsp; Learning More About ML and Web Development
-- ✍️ &nbsp; Contributing to Open Source to Enhance My Skills
+| About Me | Challenges I'm Tackling |
+| --- | --- |
+| - 🤔 &nbsp; Passionate Coder<br>- 🎓 &nbsp; Studying B.Tech [C.S] at RGPV<br>- 💼 &nbsp; Actively Seeking New Opportunities<br>- 🌱 &nbsp; Learning More About ML and Web Development<br>- ✍️ &nbsp; Contributing to Open Source to Enhance My Skills | - Practicing DSA Daily<br>- Exercising 4 Days a Week<br>- Coding for At Least 6 Hours a Day<br>- Making Positive Contributions to Society |
 
-#### 🌱 Current Projects:
 
-- Contributing to Open Source
-- Learning MERN to Expand My Skill Set
-- Completing My Bachelor's Degree in Computer Engineering
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=480&lines=+%F0%9F%92%AA+Achievements+%26+%F0%9F%8C%9F+Rankings)](https://git.io/typing-svg)
+<div style="align:Center; display:inline; width:fit-content;">
+	
+| Platform         | Achievements                      | Rankings                                                    |
+|:-----------------|:---------------------------------|:------------------------------------------------------------|
+| LeetCode         | 600+ questions solved 🏆         | Max rating 1600+ 🌐 Top 20% Global                           |
+| GeeksforGeeks    | 300+ questions solved 📚         | Institute Rank 1 🥇                                        |
+| InterviewBit     | 300+ questions solved 💼         | Top 13,000 globally out of 8,000,000 users 🌍               |
+| HackerRank       | 200+ questions solved 🖥️        | 5-star Java Coder ⭐⭐⭐⭐⭐                                  |
+| CodeForces       | 50+ questions solved ⚔️          | NewBie                                                          |
 
-#### 💪 Challenges I'm Tackling:
+</div>
 
-- Practicing DSA Daily
-- Exercising 4 Days a Week
-- Coding for At Least 6 Hours a Day
-- Making Positive Contributions to Society
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=435&lines=DSA+Badges+%40LeetCode)](https://git.io/typing-svg)
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-11.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-10.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-09.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-08.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-04.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-03.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="60px"></img>
+
   <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
   <!--- -- About Tech  --------------------------------------------------------------------------------------------------------------------------------------- -->
   <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
