@@ -32,7 +32,7 @@ https://www.geeksforgeeks.org/user/harman88157/">
 | - 🤔 &nbsp; Passionate Coder<br>- 🎓 &nbsp; Studying B.Tech [C.S] at RGPV<br>- 💼 &nbsp; Actively Seeking New Opportunities<br>- 🌱 &nbsp; Learning More About ML and Web Development<br>- ✍️ &nbsp; Contributing to Open Source to Enhance My Skills | - Practicing DSA Daily<br>- Exercising 4 Days a Week<br>- Coding for At Least 6 Hours a Day<br>- Making Positive Contributions to Society |
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=480&lines=+%F0%9F%92%AA+Achievements+%26+%F0%9F%8C%9F+Rankings)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&random=false&width=580&lines=+%F0%9F%92%AA+Achievements+%26+%F0%9F%8C%9F+Rankings)](https://git.io/typing-svg)
 <div style="align:Center; display:inline; width:fit-content;">
 	
 | Platform         | Achievements                      | Rankings                                                    |
