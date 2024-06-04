@@ -93,9 +93,8 @@ https://www.geeksforgeeks.org/user/harman88157/">
 </td>
 </tr>
 </table>
-
 <table width="100%">
-  <tr>
+<!--   <tr>
     <td width="50%">
 		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harman8815&theme=transparent"> 
         </a>
@@ -104,7 +103,12 @@ https://www.geeksforgeeks.org/user/harman88157/">
 		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harman8815&theme=transparent">
         </a>
     </td>
-  </tr>
+  </tr> -->
+  <tr>
+<td>
+<img width="1500" src="https://streak-stats.demolab.com?user=Harman8815&theme=transparent&hide_border=true" alt="GitHub Streak">
+</td>
+</tr>
 </table>
 
 <table width="100%">
