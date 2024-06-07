@@ -12,15 +12,13 @@
 <a href="https://github.com/Harman8815/">
          <img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=About.me&logoColor=0A0209" />
 </a><br>
-<a href="
-https://www.geeksforgeeks.org/user/harman88157/">
+<a href="https://www.geeksforgeeks.org/user/harman88157/">
 	<img src="https://img.shields.io/badge/-LeetCode-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" />
 </a>
     <a href="https://leetcode.com/u/Harman_deep_singh/">
 	<img src="https://img.shields.io/badge/-Geeks_For_Geeks-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209" />
 </a>
-    <a href="
-    https://www.interviewbit.com/profile/harman-deep-singh_937/">
+    <a href="https://www.interviewbit.com/profile/harman-deep-singh_937/">
 	<img src="https://img.shields.io/badge/-InterviewBit-d5d5d5?style=for-the-badge&&logoColor=0A0209" />
 </a>
 </p>
