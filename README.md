@@ -45,20 +45,20 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=435&lines=DSA+Badges+%40LeetCode)](https://git.io/typing-svg)
 
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-11.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-10.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-09.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-08.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-04.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-03.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-08.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-09.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-10.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-11.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="50px"></img>
 
 
