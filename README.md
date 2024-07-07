@@ -35,9 +35,9 @@
 	
 | Platform         | Achievements                      | Rankings                                                    |
 |:-----------------|:---------------------------------|:------------------------------------------------------------|
-| LeetCode         | 600+ questions solved 🏆         | Max rating 1600+ 🌐 Top 20% Global                           |
-| GeeksforGeeks    | 300+ questions solved 📚         | Institute Rank 1 🥇                                        |
-| InterviewBit     | 300+ questions solved 💼         | Top 13,000 globally out of 8,000,000 users 🌍               |
+| LeetCode         | 650+ questions solved 🏆         | Max rating 1680+ 🌐 Top 20% Global                           |
+| GeeksforGeeks    | 350+ questions solved 📚         | Institute Rank 1 🥇                                        |
+| InterviewBit     | 350+ questions solved 💼         | Ranked < 7,000 globally out of 8,000,000 users 🌍               |
 | HackerRank       | 200+ questions solved 🖥️        | 5-star Java Coder ⭐⭐⭐⭐⭐                                  |
 | CodeForces       | 50+ questions solved ⚔️          | NewBie                                                          |
 
