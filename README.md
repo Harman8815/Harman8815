@@ -61,8 +61,8 @@
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="50px"></img>
 
 
