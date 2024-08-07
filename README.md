@@ -35,8 +35,8 @@
 	
 | Platform         | Achievements                      | Rankings                                                    |
 |:-----------------|:---------------------------------|:------------------------------------------------------------|
-| LeetCode         | 650+ questions solved 🏆         | Max rating 1680+ 🌐 Top 20% Global                           |
-| GeeksforGeeks    | 350+ questions solved 📚         | Institute Rank 1 🥇                                        |
+| LeetCode         | 700+ questions solved 🏆         | Max rating 1680+ 🌐 Top 20% Global                           |
+| GeeksforGeeks    | 400+ questions solved 📚         | Institute Rank 1 🥇                                        |
 | InterviewBit     | 350+ questions solved 💼         | Ranked < 7,000 globally out of 8,000,000 users 🌍               |
 | HackerRank       | 200+ questions solved 🖥️        | 5-star Java Coder ⭐⭐⭐⭐⭐                                  |
 | CodeForces       | 50+ questions solved ⚔️          | NewBie                                                          |
@@ -57,7 +57,11 @@
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-05.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-06.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="50px"></img>
 
