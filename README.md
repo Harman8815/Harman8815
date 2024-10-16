@@ -35,24 +35,30 @@
 	
 | Platform         | Achievements                      | Rankings                                                    |
 |:-----------------|:---------------------------------|:------------------------------------------------------------|
-| LeetCode         | 700+ questions solved 🏆         | Max rating 1680+ 🌐 Top 20% Global                           |
-| GeeksforGeeks    | 400+ questions solved 📚         | Institute Rank 1 🥇                                        |
-| InterviewBit     | 350+ questions solved 💼         | Ranked < 7,000 globally out of 8,000,000 users 🌍               |
-| HackerRank       | 200+ questions solved 🖥️        | 5-star Java Coder ⭐⭐⭐⭐⭐                                  |
-| CodeForces       | 50+ questions solved ⚔️          | NewBie                                                          |
+| LeetCode         | 850+ questions solved 🏆         | Max rating 1680+ 🌐 Top 20% Global                         |
+| GeeksforGeeks    | 500+ questions solved 📚         | Institute Rank 1 🥇                                        |
+| InterviewBit     | 350+ questions solved 💼         | Ranked < 7,000 globally out of 8,000,000 users 🌍          |
+| HackerRank       | 100+ questions solved 🖥️         | 5-star Java Coder ⭐⭐⭐⭐⭐                             |
+| CodeForces       | 150+ questions solved ⚔️         | Beginner                                                   |
+| CodeForces       | 50+ questions solved ⚔️          | NewBie                                                     |
 
 </div>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=435&lines=DSA+Badges+%40LeetCode)](https://git.io/typing-svg)
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&width=435&lines=%F0%9F%8F%86+DSA+Trophies+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=1000&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=LeetCode)](https://git.io/typing-svg)
+<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-04.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-03.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-08.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-09.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-10.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-11.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="50px"></img>
@@ -62,10 +68,15 @@
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="50px"></img>
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=1000&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=InterView+Bit)](https://git.io/typing-svg)
+<img src="https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/004/119/original/2_pointers.svg" width="50px"></img>
+<img src="https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/004/120/original/Arrays.svg" width="50px"></img>
+<img src="https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/004/122/original/binary_search.svg" width="50px"></img>
+<img src="https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/004/129/original/linked_lists.svg" width="50px"></img>
+<img src="https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/004/130/original/maths.svg" width="50px"></img>
+<img src="https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/004/132/original/strings.svg" width="50px"></img>
+<img src="https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/004/133/original/Time_complexity.svg" width="50px"></img>
 
 
   <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
