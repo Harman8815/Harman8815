@@ -48,6 +48,8 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&width=435&lines=%F0%9F%8F%86+DSA+Trophies+%F0%9F%8F%86)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=1000&pause=1000&center=false&vCenter=true&repeat=false&width=435&lines=LeetCode)](https://git.io/typing-svg)
 <br>
+
+<img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="50px"></img>
@@ -69,6 +71,7 @@
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="50px"></img>
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=1000&pause=1000&center=false&vCenter=true&repeat=false&width=435&lines=InterView+Bit)](https://git.io/typing-svg)
 <br>
