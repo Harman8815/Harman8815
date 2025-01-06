@@ -25,18 +25,18 @@
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=480&lines=+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+About+Me)](https://git.io/typing-svg)
 
-| About Me | Challenges I'm Tackling |
-| --- | --- |
+| About Me                                                                                                                                                                                                                                              | Challenges I'm Tackling                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | - 🤔 &nbsp; Passionate Coder<br>- 🎓 &nbsp; Studying B.Tech [C.S] at RGPV<br>- 💼 &nbsp; Actively Seeking New Opportunities<br>- 🌱 &nbsp; Learning More About ML and Web Development<br>- ✍️ &nbsp; Contributing to Open Source to Enhance My Skills | - Practicing DSA Daily<br>- Exercising 4 Days a Week<br>- Coding for At Least 6 Hours a Day<br>- Making Positive Contributions to Society |
 
-
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&random=false&width=580&lines=+%F0%9F%92%AA+Achievements+%26+%F0%9F%8C%9F+Rankings)](https://git.io/typing-svg)
+
 <div style="align:Center; display:inline; width:fit-content;">
 	
 | Platform         | Achievements                      | Rankings                                                    |
 |:-----------------|:---------------------------------|:------------------------------------------------------------|
-| LeetCode         | 850+ questions solved 🏆         | Max rating 1680+ 🌐 Top 20% Global                         |
-| GeeksforGeeks    | 500+ questions solved 📚         | Institute Rank 1 🥇                                        |
+| LeetCode         | 900+ questions solved 🏆         | Max rating 1680+ 🌐 Top 20% Global                         |
+| GeeksforGeeks    | 550+ questions solved 📚         | Institute Rank 1 🥇                                        |
 | InterviewBit     | 350+ questions solved 💼         | Ranked < 7,000 globally out of 8,000,000 users 🌍          |
 | HackerRank       | 100+ questions solved 🖥️         | 5-star Java Coder ⭐⭐⭐⭐⭐                             |
 | CodeForces       | 150+ questions solved ⚔️         | Beginner                                                   |
@@ -44,24 +44,27 @@
 
 </div>
 
-
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&width=435&lines=%F0%9F%8F%86+DSA+Trophies+%F0%9F%8F%86)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=1000&pause=1000&center=false&vCenter=true&repeat=false&width=435&lines=LeetCode)](https://git.io/typing-svg)
-<br>
 
-<img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="50px"></img>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=1000&pause=1000&center=false&vCenter=true&repeat=false&width=435&lines=LeetCode)](https://git.io/typing-svg)
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=1000&pause=1000&center=false&vCenter=true&repeat=false&width=435&lines=2023+Badges)](https://git.io/typing-svg)
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-04.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-03.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-08.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-09.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-10.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-11.gif" width="50px"></img>
+
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=1000&pause=1000&center=false&vCenter=true&repeat=false&width=435&lines=2024+Badges)](https://git.io/typing-svg)
+
+<img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="50px"></img>
@@ -72,7 +75,15 @@
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-08.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" width="50px"></img>
-<br>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-11.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-12.gif" width="50px"></img>
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=1000&pause=1000&center=false&vCenter=true&repeat=false&width=435&lines=Achievement+Badges)](https://git.io/typing-svg)
+
+<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="50px"></img>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=1000&pause=1000&center=false&vCenter=true&repeat=false&width=435&lines=InterView+Bit)](https://git.io/typing-svg)
 <br>
 <img src="https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/004/119/original/2_pointers.svg" width="50px"></img>
@@ -83,26 +94,26 @@
 <img src="https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/004/132/original/strings.svg" width="50px"></img>
 <img src="https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/004/133/original/Time_complexity.svg" width="50px"></img>
 
-
   <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
   <!--- -- About Tech  --------------------------------------------------------------------------------------------------------------------------------------- -->
   <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=435&lines=Tech+Stack+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-| Category             | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Languages            | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> |
-| Frameworks           | <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                          |
-| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />                                                                                                                                                                                                                           |
-| Database             | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                   |
-| Services & Tools     | <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">                                                                                                                                                                                                                                      |
-| Competitive Coding   | <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/> <img src=" https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>  <img src=" https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>                                                                                                                                                                                             |
-| IDE & Environment    | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"> <img src="https://img.shields.io/badge/NetBeans_IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white  ">                                                                                                                                                                                                      |
-| Hosting              | <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| APIs                 | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Design Tools         | <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B        ">                                                                                                                                                                                                                                                                                                                          |
-| Learning             | <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" />    |
+| Category             | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Languages            | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">             |
+| Frameworks | <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/> |
+| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />                                                                                                                                                                                               |
+| Database             | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                                    |
+| Services & Tools     | <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">                                                                                                                                                                                                                                                       |
+| Competitive Coding   | <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/> <img src=" https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> <img src=" https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/> |
+| IDE & Environment    | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" /> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" /> <img src="https://img.shields.io/badge/NetBeans_IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />  |
+| Hosting              | <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" /> <img src="https://img.shields.io/badge/Render-FFFFFF?style=for-the-badge&logo=render&logoColor=black&background-color=46E3B7" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />  |
+| APIs                 | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Thunder_Client-30A7DE?style=for-the-badge&logo=thunder-client&logoColor=white" />  |
+| Design Tools         | <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /> <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />  |
+| Learning             | <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" />  |
+
 
 ---
 
@@ -143,5 +154,3 @@
     </td>
   </tr>
 </table>
-
-
