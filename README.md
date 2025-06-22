@@ -68,6 +68,7 @@ Beyond traditional web development, I have a keen interest in **3D web experienc
 <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/202506.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="50px"></img>
