@@ -110,14 +110,6 @@ Beyond traditional web development, I have a keen interest in **3D web experienc
 
 ---
 
-<table width="100%" align="center">
-<tr>
-<td>
-<img width="1500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harman8815&theme=transparent">
-</td>
-</tr>
-</table>
-<table width="100%">
 <!--   <tr>
     <td width="50%">
 		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harman8815&theme=transparent"> 
