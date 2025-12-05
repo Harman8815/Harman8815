@@ -1,35 +1,50 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&random=false&width=480&lines=Hey+there!+I'm+Harman.)](https://git.io/typing-svg)
 
-<!--  ![1709131445623](https://github.com/Harman8815/Harman8815/assets/115714095/5ca0deee-18ed-4f7e-9edc-85a21f1a6ad7) -->
-</span>
-
 <p align="center"> 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHarman8815%2F&label=VISITORS&countColor=%230A0209" alt="Harman8815" />  <br><br>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHarman8815%2F&label=VISITORS&countColor=%230A0209" alt="Harman8815" />  
+<br><br>
+
 <a href="https://www.linkedin.com/in/harman-deep-singh-5a3b3823b/">
-         <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" />
+<img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" />
 </a>
+
 <a href="https://github.com/Harman8815/">
-         <img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=About.me&logoColor=0A0209" />
-</a><br>
+<img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=about.me&logoColor=0A0209" />
+</a>
+<br>
+
+<a href="https://leetcode.com/u/Harman_deep_singh/">
+<img src="https://img.shields.io/badge/-LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" />
+</a>
+
 <a href="https://www.geeksforgeeks.org/user/harman88157/">
-	<img src="https://img.shields.io/badge/-LeetCode-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" />
+<img src="https://img.shields.io/badge/-GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" />
 </a>
-    <a href="https://leetcode.com/u/Harman_deep_singh/">
-	<img src="https://img.shields.io/badge/-Geeks_For_Geeks-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209" />
-</a>
-    <a href="https://www.interviewbit.com/profile/harman-deep-singh_937/">
-	<img src="https://img.shields.io/badge/-InterviewBit-d5d5d5?style=for-the-badge&&logoColor=0A0209" />
+
+<a href="https://www.interviewbit.com/profile/harman-deep-singh_937/">
+<img src="https://img.shields.io/badge/-InterviewBit-d5d5d5?style=for-the-badge&logoColor=0A0209" />
 </a>
 </p>
 
+---
+
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=480&lines=+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+About+Me)](https://git.io/typing-svg)
-I am a final-year **B.Tech Computer Science** student at **RGPV**, specializing in **MERN stack development** with a strong foundation in **Data Structures & Algorithms (DSA)**. My expertise includes **Java, Python, and C++**, along with various other programming languages.
 
-I am passionate about web development and enjoy building scalable applications. I have experience integrating **Machine Learning** into web projects to enhance functionality. Additionally, I am exploring **Blockchain technology** to develop Web3 applications.
+I’m a **Computer Science graduate** specializing in scalable, production-ready development using **MERN**, **Next.js**, and **Django**. With strong **DSA fundamentals**, my focus is on clean architecture, performance, and reliable engineering.
 
-Beyond traditional web development, I have a keen interest in **3D web experiences** and enjoy working with **Three.js and GSAP** to create interactive and visually engaging websites. I am always eager to learn new technologies and push the boundaries of what’s possible in web development.
+Currently, I’m exploring **Agentic AI systems**—applications capable of autonomous reasoning, planning, and action—while integrating **Machine Learning** to build smarter, real-world solutions.
+
+---
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&random=false&width=580&lines=+%F0%9F%92%AA+Achievements+%26+%F0%9F%8C%9F+Rankings)](https://git.io/typing-svg)
 
+- Solved **1300+ problems on LeetCode** with a **500+ day streak**
+- Solved **2700+ questions across all platforms**
+- Achieved **Institute Rank 1 on GeeksforGeeks**
+- Ranked in the **Top ~7k out of 8M users on InterviewBit**
+
+
+
+<!--
 <div style="align:Center; display:inline; width:fit-content;">
 	
 | Platform         | Achievements                      | Rankings                                                    |
@@ -39,7 +54,8 @@ Beyond traditional web development, I have a keen interest in **3D web experienc
 | InterviewBit     | 350+ questions solved 💼         | Ranked < 7,000 globally out of 8,000,000 users 🌍          |
 | HackerRank       | 100+ questions solved 🖥️         | 5-star Java Coder ⭐⭐⭐⭐⭐                             |
 
-</div>
+</div>-->
+<!--
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&width=435&lines=%F0%9F%8F%86+DSA+Trophies+%F0%9F%8F%86)](https://git.io/typing-svg)
 
@@ -68,16 +84,13 @@ Beyond traditional web development, I have a keen interest in **3D web experienc
 <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/202506.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="50px"></img>
+
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="50px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="50px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/Introduction_to_Pandas.gif" width="50px"></img>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=1000&pause=1000&center=false&vCenter=true&repeat=false&width=435&lines=InterView+Bit)](https://git.io/typing-svg)
 <br>
@@ -89,31 +102,89 @@ Beyond traditional web development, I have a keen interest in **3D web experienc
 <img src="https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/004/132/original/strings.svg" width="50px"></img>
 <img src="https://d3n0h9tb65y8q.cloudfront.net/public_assets/assets/000/004/133/original/Time_complexity.svg" width="50px"></img>
 
+<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/Pandas.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/Binary_Search.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/JS30_GIF.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/Programming_Skills.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/Premium_Algo_100.gif" width="50px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/Dynamic_Programming.gif" width="50px"></img>
+-->
   <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
   <!--- -- About Tech  --------------------------------------------------------------------------------------------------------------------------------------- -->
   <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=435&lines=Tech+Stack+%F0%9F%92%BB" alt="Typing SVG" /></a>
-| Category             | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Languages            | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"> |
-| Frameworks & Libraries | <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/ContextAPI-FF9900?style=for-the-badge"/> <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white"/> |
-| Styling & UI Libraries | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/> <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/> <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> |
-| Animation & Graphics | <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/> |
-| Database             | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
-| Authentication & APIs | <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtoken&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Thunder_Client-30A7DE?style=for-the-badge&logo=thunder-client&logoColor=white"/> |
-| Deployment & Hosting  | <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/> |
-| Competitive Coding   | <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/> <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/> |
-| Learning             | <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/> <img src="https://img.shields.io/badge/Scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white"/> <img src="https://img.shields.io/badge/FreeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/> <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white"/> <img src="https://img.shields.io/badge/Physic_Wallah-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/100xDev-FF7F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Delta-1E90FF?style=for-the-badge"/> |
+<!-- Row 1: Frontend + Backend -->
+<div style="display: flex; gap: 8px; align-items: center;">
+  <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/typescript" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/css" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/react" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/nextjs" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/mui" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/tailwind" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/sass" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/express" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/django" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/flask" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/fastapi" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/java" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/c" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/cpp" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/bash" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/bun" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/numpy" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/matplotlib" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/opencv" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/keras" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/pytorch" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/tensorflow" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/ai" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/chatgpt" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/claude" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/deepseek" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/gemini" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/canva" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/github" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/github-pages" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/gitlab" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/slack" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/postman" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/vercel" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/netlify" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/render" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/electron" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/vite" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/visual-studio" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/windows" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/leetcode" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/geeksforgeeks" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/codeforces" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/codechef" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/codewars" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/codepen" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/codesandbox" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/freecodecamp" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/google-colab" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/copilot" width="64px" />
+</div>
+
 
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=Harman8815&theme=transparent&hide_border=true)
 
-  <tr>
-<td>
-<img width="1500" src="https://streak-stats.demolab.com?user=Harman8815&theme=transparent&hide_border=true" alt="GitHub Streak">
-</td>
-</tr>
-</table>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
