@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&random=false&width=480&lines=Hey+there!+I'm+Harman.)](https://git.io/typing-svg)
 
-![1709131445623](https://github.com/Harman8815/Harman8815/assets/115714095/5ca0deee-18ed-4f7e-9edc-85a21f1a6ad7)
-
+<!--  ![1709131445623](https://github.com/Harman8815/Harman8815/assets/115714095/5ca0deee-18ed-4f7e-9edc-85a21f1a6ad7) -->
 </span>
 
 <p align="center"> 
@@ -110,16 +109,6 @@ Beyond traditional web development, I have a keen interest in **3D web experienc
 
 ---
 
-<!--   <tr>
-    <td width="50%">
-		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harman8815&theme=transparent"> 
-        </a>
-    </td>
-    <td width="50%">
-		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harman8815&theme=transparent">
-        </a>
-    </td>
-  </tr> -->
   <tr>
 <td>
 <img width="1500" src="https://streak-stats.demolab.com?user=Harman8815&theme=transparent&hide_border=true" alt="GitHub Streak">
@@ -127,15 +116,4 @@ Beyond traditional web development, I have a keen interest in **3D web experienc
 </tr>
 </table>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harman8815&theme=transparent">
-        </a>
-    </td>
-    <td width="50%">
-		  <img width="420" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harman8815&theme=transparent&utcOffset=8">
-        </a>
-    </td>
-  </tr>
-</table>
+![](./profile-3d-contrib/profile-night-green.svg)
