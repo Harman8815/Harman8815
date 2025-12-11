@@ -26,7 +26,8 @@
 </a>
 </p>
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" style="max-width:100%; height:auto;"/>
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=480&lines=+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+About+Me)](https://git.io/typing-svg)
 
@@ -34,17 +35,11 @@ I’m a **Computer Science graduate** specializing in scalable, production-ready
 
 Currently, I’m exploring **Agentic AI systems**—applications capable of autonomous reasoning, planning, and action—while integrating **Machine Learning** to build smarter, real-world solutions.
 
----
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&random=false&width=580&lines=+%F0%9F%92%AA+Achievements+%26+%F0%9F%8C%9F+Rankings)](https://git.io/typing-svg)
 
-- Solved **1300+ problems on LeetCode** with a **500+ day streak**
-- Solved **2700+ questions across all platforms**
-- Achieved **Institute Rank 1 on GeeksforGeeks**
-- Ranked in the **Top ~7k out of 8M users on InterviewBit**
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" style="max-width:100%; height:auto;"/>
 
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&random=false&width=580&lines=+%F0%9F%92%AA+Achievements+%26+%F0%9F%8C%9F+Rankings)](https://git.io/typing-svg)
 
-
-<!--
 <div style="align:Center; display:inline; width:fit-content;">
 	
 | Platform         | Achievements                      | Rankings                                                    |
@@ -54,7 +49,9 @@ Currently, I’m exploring **Agentic AI systems**—applications capable of auto
 | InterviewBit     | 350+ questions solved 💼         | Ranked < 7,000 globally out of 8,000,000 users 🌍          |
 | HackerRank       | 100+ questions solved 🖥️         | 5-star Java Coder ⭐⭐⭐⭐⭐                             |
 
-</div>-->
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" style="max-width:100%; height:auto;"/>
 <!--
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&width=435&lines=%F0%9F%8F%86+DSA+Trophies+%F0%9F%8F%86)](https://git.io/typing-svg)
@@ -119,7 +116,8 @@ Currently, I’m exploring **Agentic AI systems**—applications capable of auto
   <!--- -- About Tech  --------------------------------------------------------------------------------------------------------------------------------------- -->
   <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=435&lines=Tech+Stack+%F0%9F%92%BB" alt="Typing SVG" /></a>
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=435&lines=Tech+Stack+%F0%9F%92%BB" alt="Typing SVG" />
+
 <!-- Row 1: Frontend + Backend -->
 <div style="display: flex; gap: 8px; align-items: center;">
   <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
@@ -182,9 +180,14 @@ Currently, I’m exploring **Agentic AI systems**—applications capable of auto
 </div>
 
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" style="max-width:100%; height:auto;"/>
 
----
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=435&lines=My+Stats+%F0%9F%92%BB" alt="Typing SVG" />
+
+<img src="https://streak-stats.demolab.com?user=Harman8815&theme=transparent&hide_border=true" width="95%"/>
+
+<!--
 ![GitHub Streak](https://streak-stats.demolab.com?user=Harman8815&theme=transparent&hide_border=true)
-
+-->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
