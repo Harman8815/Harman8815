@@ -44,7 +44,7 @@ Currently, I’m exploring **Agentic AI systems**—applications capable of auto
 	
 | Platform         | Achievements                      | Rankings                                                    |
 |:-----------------|:---------------------------------|:------------------------------------------------------------|
-| LeetCode         | 950+ questions solved 🏆         | Max rating 1680+ 🌐 Top 20% Global                         |
+| LeetCode         | 1450+ questions solved 🏆         | Max rating 1680+ 🌐 Top 20% Global                         |
 | GeeksforGeeks    | 650+ questions solved 📚         | Institute Rank 1 🥇                                        |
 | InterviewBit     | 350+ questions solved 💼         | Ranked < 7,000 globally out of 8,000,000 users 🌍          |
 | HackerRank       | 100+ questions solved 🖥️         | 5-star Java Coder ⭐⭐⭐⭐⭐                             |
