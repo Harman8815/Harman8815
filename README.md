@@ -40,16 +40,34 @@ Currently, I’m exploring **Agentic AI systems**—applications capable of auto
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&random=false&width=580&lines=+%F0%9F%92%AA+Achievements+%26+%F0%9F%8C%9F+Rankings)](https://git.io/typing-svg)
 
-<div style="align:Center; display:inline; width:fit-content;">
-	
-| Platform         | Achievements                      | Rankings                                                    |
-|:-----------------|:---------------------------------|:------------------------------------------------------------|
-| LeetCode         | 1450+ questions solved 🏆         | Max rating 1680+ 🌐 Top 20% Global                         |
-| GeeksforGeeks    | 650+ questions solved 📚         | Institute Rank 1 🥇                                        |
-| InterviewBit     | 350+ questions solved 💼         | Ranked < 7,000 globally out of 8,000,000 users 🌍          |
-| HackerRank       | 100+ questions solved 🖥️         | 5-star Java Coder ⭐⭐⭐⭐⭐                             |
+<table align="center" width="100%">
+  <tr>
+    <th align="left">Platform</th>
+    <th align="left">Achievements</th>
+    <th align="left">Rankings</th>
+  </tr>
+  <tr>
+    <td width="20%">LeetCode</td>
+    <td width="40%">1450+ questions solved 🏆</td>
+    <td width="40%">Max rating 1680+ 🌐 Top 20% Global</td>
+  </tr>
+  <tr>
+    <td>GeeksforGeeks</td>
+    <td>650+ questions solved 📚</td>
+    <td>Institute Rank 1 🥇</td>
+  </tr>
+  <tr>
+    <td>InterviewBit</td>
+    <td>350+ questions solved 💼</td>
+    <td>Ranked &lt; 7,000 globally out of 8,000,000 users 🌍</td>
+  </tr>
+  <tr>
+    <td>HackerRank</td>
+    <td>100+ questions solved 🖥️</td>
+    <td>5-star Java Coder ⭐⭐⭐⭐⭐</td>
+  </tr>
+</table>
 
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" style="max-width:100%; height:auto;"/>
 <!--
