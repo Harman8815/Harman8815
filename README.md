@@ -183,10 +183,18 @@ Currently, I’m exploring **Agentic AI systems**—applications capable of auto
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" style="max-width:100%; height:auto;"/>
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=435&lines=My+Stats+%F0%9F%92%BB" alt="Typing SVG" />
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Harman8815&show_icons=true&theme=radical&height=180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Harman8815&theme=radical&height=180" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Harman8815&show_icons=true&theme=radical" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Harman8815&theme=radical" width="100%" />
+    </td>
+  </tr>
+</table>
+
+
 
 
 <!--
