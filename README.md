@@ -184,7 +184,8 @@ Currently, I’m exploring **Agentic AI systems**—applications capable of auto
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=435&lines=My+Stats+%F0%9F%92%BB" alt="Typing SVG" />
 
-<img src="https://streak-stats.demolab.com?user=Harman8815&theme=transparent&hide_border=true" width="95%"/>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Harman8815&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Harman8815&theme=radical)
 
 <!--
 ![GitHub Streak](https://streak-stats.demolab.com?user=Harman8815&theme=transparent&hide_border=true)
