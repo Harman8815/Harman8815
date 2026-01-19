@@ -38,7 +38,7 @@ Currently, I’m exploring **Agentic AI systems**—applications capable of auto
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" style="max-width:100%; height:auto;"/>
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&random=false&width=580&lines=+%F0%9F%92%AA+Achievements+%26+%F0%9F%8C%9F+Rankings)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=800\&size=30\&pause=1000\&random=false\&width=620\&lines=+%F0%9F%8C%9F+Competitive+Standing)](https://git.io/typing-svg)
 
 <table align="center" width="100%">
   <tr>
