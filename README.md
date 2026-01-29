@@ -72,7 +72,6 @@ Currently, I’m exploring **Agentic AI systems**—applications capable of auto
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" style="max-width:100%; height:auto;"/>
 <!--
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&width=435&lines=%F0%9F%8F%86+DSA+Trophies+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=1000&pause=1000&center=false&vCenter=true&repeat=false&width=435&lines=LeetCode)](https://git.io/typing-svg)
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/2023/gif/2023-04.gif" width="50px"></img>
