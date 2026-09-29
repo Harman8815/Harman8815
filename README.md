@@ -137,66 +137,58 @@ Currently, I’m exploring **Agentic AI systems**—applications capable of auto
 
 <!-- Row 1: Frontend + Backend -->
 <div style="display: flex; gap: 8px; align-items: center;">
+  <!-- Languages -->
   <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/typescript" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/css" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/react" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/nextjs" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/mui" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/tailwind" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/sass" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/express" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/django" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/flask" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/fastapi" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/java" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/c" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/cpp" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/bash" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/bun" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/numpy" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/matplotlib" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/opencv" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/keras" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/pytorch" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/tensorflow" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/ai" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/chatgpt" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/claude" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/deepseek" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/gemini" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/canva" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/github" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/github-pages" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/gitlab" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/slack" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/postman" width="64px" />
+
+  <!-- Frontend -->
+  <img src="https://iconic-api.onrender.com/dark/react" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/nextjs" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/tailwind" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/mui" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/vite" width="64px" />
+
+  <!-- Backend -->
+  <img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/express" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/django" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/flask" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/fastapi" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/mongodb" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/redis" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/graphql" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/docker" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/kubernetes" width="64px" /
   <img src="https://iconic-api.onrender.com/dark/vercel" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/netlify" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/render" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/electron" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/vite" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/github-actions" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/git" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/github" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/numpy" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/matplotlib" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/opencv" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/scikit-learn" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/pytorch" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/tensorflow" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/keras" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/visual-studio" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/windows" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/leetcode" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/geeksforgeeks" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/codeforces" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/github" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/windows" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/linux" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/codechef" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/codewars" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/codepen" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/codesandbox" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/freecodecamp" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/google-colab" width="64px" />
-  <img src="https://iconic-api.onrender.com/dark/copilot" width="64px" />
 </div>
-
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" style="max-width:100%; height:auto;"/>
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=435&lines=My+Stats+%F0%9F%92%BB" alt="Typing SVG" />
