@@ -1,75 +1,44 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&random=false&width=480&lines=Hey+there!+I'm+Harman.)](https://git.io/typing-svg)
+<table width="100%">
+<tr>
+<td width="75%" valign="top">
 
-<p align="center"> 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHarman8815%2F&label=VISITORS&countColor=%230A0209" alt="Harman8815" />  
-<br><br>
+# Hey, I'm Harman Deep Singh
 
-<a href="https://www.linkedin.com/in/harman-deep-singh-5a3b3823b/">
-<img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=28\&pause=1000\&width=500\&lines=Software+Engineer;DSA+Enthusiast;ML%2FAI+Explorer;Always+Building)](https://git.io/typing-svg)
 
-<a href="https://github.com/Harman8815/">
-<img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=about.me&logoColor=0A0209" />
-</a>
-<br>
+</td>
 
-<a href="https://leetcode.com/u/Harman_deep_singh/">
-<img src="https://img.shields.io/badge/-LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" />
-</a>
+<td width="25%" align="right" valign="middle">
 
-<a href="https://www.geeksforgeeks.org/user/harman88157/">
-<img src="https://img.shields.io/badge/-GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209" />
-</a>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHarman8815%2F&label=VISITORS&countColor=%230A0209" alt="Visitors" />
 
-<a href="https://www.interviewbit.com/profile/harman-deep-singh_937/">
-<img src="https://img.shields.io/badge/-InterviewBit-d5d5d5?style=for-the-badge&logoColor=0A0209" />
-</a>
-</p>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" style="max-width:100%; height:auto;"/>
-
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&random=false&width=480&lines=+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+About+Me)](https://git.io/typing-svg)
-
-I’m a **Computer Science graduate** specializing in scalable, production-ready development using **MERN**, **Next.js**, and **Django**. With strong **DSA fundamentals**, my focus is on clean architecture, performance, and reliable engineering.
-
-Currently, I’m exploring **Agentic AI systems**—applications capable of autonomous reasoning, planning, and action—while integrating **Machine Learning** to build smarter, real-world solutions.
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" style="max-width:100%; height:auto;"/>
-
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=800\&size=30\&pause=1000\&random=false\&width=620\&lines=+%F0%9F%8C%9F+Competitive+Standing)](https://git.io/typing-svg)
-
-<table align="center" width="100%">
-  <tr>
-    <th align="left">Platform</th>
-    <th align="left">Achievements</th>
-    <th align="left">Rankings</th>
-  </tr>
-  <tr>
-    <td width="20%">LeetCode</td>
-    <td width="40%">1450+ questions solved 🏆</td>
-    <td width="40%">Max rating 1680+ 🌐 Top 20% Global</td>
-  </tr>
-  <tr>
-    <td>GeeksforGeeks</td>
-    <td>650+ questions solved 📚</td>
-    <td>Institute Rank 1 🥇</td>
-  </tr>
-  <tr>
-    <td>InterviewBit</td>
-    <td>350+ questions solved 💼</td>
-    <td>Ranked &lt; 7,000 globally out of 8,000,000 users 🌍</td>
-  </tr>
-  <tr>
-    <td>HackerRank</td>
-    <td>100+ questions solved 🖥️</td>
-    <td>5-star Java Coder ⭐⭐⭐⭐⭐</td>
-  </tr>
+</td>
+</tr>
 </table>
 
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" style="max-width:100%; height:auto;"/>
+## About Me
+
+I’m a **Computer Science Engineer** who enjoys understanding how things work and turning that understanding into software.
+
+As a kid, I was fascinated by games — wondering how a bike moves, how characters behave, and how an entire virtual world follows rules. That curiosity eventually pulled me deep into programming.
+
+Over the years, I’ve spent a lot of time **learning, building, experimenting, and breaking things** — from DSA and software engineering to systems and newer technologies.
+
+Currently exploring **ML/AI, RAG, Agentic systems, Go, and Rust**, while continuing to build projects and sharpen my problem-solving skills.
+
+**Still curious. Still experimenting. Still building.**
+
+---
+### Achievements & Currently Exploring
+
+Strong in **DSA and problem solving**, with **1450+ LeetCode problems solved**, a **1680+ peak rating**, and a **500+ day streak**. Also completed **650+ problems on GeeksforGeeks** with **Institute Rank 1**, and **350+ on InterviewBit**.
+
+Currently exploring **ML/AI, RAG, LLM applications, and AI Agents**, while deepening my knowledge of **backend systems, system design, APIs, Linux, networking, and DevOps**. Exploring **Java, Python, Go, and Rust** through projects and experiments.
+
+> Build. Break. Understand. Improve.
+
 <!--
 
 
